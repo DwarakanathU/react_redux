@@ -1,0 +1,7 @@
+const actionTypes = {
+  INCREMENT_COUNTER: "INCREMENT_COUNTER",
+  DECREMENT_COUNTER: "DECREMENT_COUNTER",
+  RESET_COUNTER: "RESET_COUNTER",
+};
+
+export default actionTypes;
